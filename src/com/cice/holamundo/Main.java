@@ -8,7 +8,8 @@ public class Main {
         
         // String... seria un array de string en java 8 y en Android
         System.out.println("Hola mundo \u0007");
-        
+       // https://github.com/aosjob/T512-00-HOLAMUNDO.git;
+       
     }
     
 }
